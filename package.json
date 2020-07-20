@@ -1,6 +1,6 @@
 {
   "name": "@agog/siwa",
-  "version": "0.0.1",
+  "version": "0.1.0-beta.0",
   "description": "Verify user on sign in with apple (siwa)",
   "main": "dist/index.js",
   "scripts": {
