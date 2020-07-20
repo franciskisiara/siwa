@@ -1,5 +1,5 @@
 import { errors } from '../helpers'; 
-import Siwa from '../Siwa';
+import Siwa from '../index';
 
 const expect = require('chai').expect
 
