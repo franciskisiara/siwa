@@ -1,6 +1,6 @@
 {
   "name": "@agog/siwa",
-  "version": "0.1.0-beta.1",
+  "version": "0.1.0-beta.2",
   "description": "Verify user on sign in with apple (siwa)",
   "main": "dist/index.js",
   "scripts": {
@@ -22,6 +22,7 @@
     "@babel/cli": "^7.10.5",
     "@babel/core": "^7.10.5",
     "@babel/node": "^7.10.5",
+    "@babel/plugin-transform-runtime": "^7.10.5",
     "@babel/preset-env": "^7.10.4",
     "@babel/register": "^7.10.5",
     "chai": "^4.2.0",
@@ -29,6 +30,7 @@
     "nodemon": "^2.0.4"
   },
   "dependencies": {
+    "@babel/runtime": "^7.10.5",
     "jsonwebtoken": "^8.5.1",
     "jwks-rsa": "^1.8.1"
   }
