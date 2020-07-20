@@ -1,0 +1,11 @@
+{
+  "name": "@agog/siwa",
+  "version": "0.0.1",
+  "description": "Sign in with apple using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "franciskisiara@gmail.com",
+  "license": "MIT"
+}
