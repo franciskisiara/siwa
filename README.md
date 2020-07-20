@@ -57,6 +57,6 @@ npm run test
 ## Authors
 
 **Kisiara Francis** 
-    - [Github](https://github.com/franciskisiara)
-    - [Website](https://profiles.agog.co.ke/kisiara)
-    - [LinkedIn](https://www.linkedin.com/in/francis-kisiara-289360ab/) -->
+- [Github](https://github.com/franciskisiara)
+- [Website](https://profiles.agog.co.ke/kisiara)
+- [LinkedIn](https://www.linkedin.com/in/francis-kisiara-289360ab/)
